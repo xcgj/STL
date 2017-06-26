@@ -1,0 +1,4 @@
+﻿  STL：用两个栈实现一个队列.cpp
+d:\code\c++_project\作业\使用模板实现冒泡排序\stl：用两个栈实现一个队列\stl：用两个栈实现一个队列.cpp(77): warning C4172: 返回局部变量或临时变量的地址: a
+  STL：用两个栈实现一个队列.vcxproj -> D:\Code\C++_project\作业\使用模板实现冒泡排序\Debug\STL：用两个栈实现一个队列.exe
+  STL：用两个栈实现一个队列.vcxproj -> D:\Code\C++_project\作业\使用模板实现冒泡排序\Debug\STL：用两个栈实现一个队列.pdb (Partial PDB)

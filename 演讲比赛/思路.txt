@@ -1,0 +1,19 @@
+1. 需要创建24个Player  
+	class Player
+	｛
+	string name；
+	int score[3]
+	｝
+	map<int,Player> <编号，选手>
+	vector<int> 编号
+	
+	mPlayer[101];
+	
+2. random_shuffle打乱参赛编号数组
+3. 打分：10个评委，以此给选手打分，去除最高分 去除最低分 取平均分
+	
+   分组：multimap<分数,选手编号>  1 2 3 4 5 6 7 8 。。。。。
+   
+   vector<int> 晋级名单
+	
+4. 显示当前进阶的选手信息

@@ -1,0 +1,4 @@
+﻿  stringAPI.cpp
+e:\c++_project\课堂练习\string类的基本api\string类的基本api\stringapi.cpp(54): warning C4101: “ex”: 未引用的局部变量
+  string类的基本API.vcxproj -> E:\C++_project\课堂练习\string类的基本API\Debug\string类的基本API.exe
+  string类的基本API.vcxproj -> E:\C++_project\课堂练习\string类的基本API\Debug\string类的基本API.pdb (Partial PDB)
